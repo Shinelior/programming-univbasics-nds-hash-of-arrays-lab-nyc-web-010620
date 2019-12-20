@@ -25,12 +25,7 @@
   
   
   def add_character(show,name)
-  base_hoa = {
-  :chipmunks => ["Alvin", "Simon", "Theodore"],
- :third_earthers => ["Lion-O", "Cheetara", "Mumm-Ra (the ever-living)"],
-  :jetsons => ["George", "Jane", "Judy", "Elroy"]
-}
-
+  
  show_array=[]
  
  base_hoa[:chipmunks] << name
