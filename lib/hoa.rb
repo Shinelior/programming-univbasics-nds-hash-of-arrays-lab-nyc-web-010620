@@ -31,7 +31,7 @@
   
   def add_character(show,name)
   
- show_array=[]
+# show_array=[]
  
  BASE_HOA[show] << name
  #show_array << base_hoa[:chipmunks]
@@ -49,4 +49,4 @@
 end
 
 #end
-
+add_character(show,name)
