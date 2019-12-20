@@ -44,7 +44,7 @@
    
   
 
- return show_array
+ return  BASE_HOA[show]
  
 end
 
