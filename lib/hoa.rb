@@ -33,7 +33,7 @@
   
  show_array=[]
  
- base_hoa[:chipmunks] << name
+ BASE_HOA[:chipmunks] << name
  show_array << base_hoa[:chipmunks]
  base_hoa[:third_earthers] << "Snarf"
  show_array << base_hoa[:third_earthers]
